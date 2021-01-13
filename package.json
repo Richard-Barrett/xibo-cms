@@ -63,7 +63,7 @@
     "handlebars": "~4.0.11",
     "jquery": "~3.2.1",
     "jquery-ui": "~1.12.1",
-    "jquery-validation": "~1.17.0",
+    "jquery-validation": "~1.19.3",
     "moment": "~2.20.1",
     "moment-jalaali": "~0.7.2",
     "moment-timezone": "~0.5.14",
